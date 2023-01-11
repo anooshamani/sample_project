@@ -3,6 +3,7 @@ int main()
 {
 int a,b,c;
 c=a+b;
-printf("sum of two numbers %d",c);
+printf("sum of two numbers %d\n ",c);
+printf("this branch spl2");
 return 0;
 }
